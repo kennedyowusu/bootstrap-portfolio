@@ -40,10 +40,6 @@ body {
   width: 100%;
 }
 
-.see-project {  
-  background-color: #F55800;
-}
-
-.see-project:hover {
+.see-project {
   background-color: #F55800;
 }

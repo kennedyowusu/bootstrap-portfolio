@@ -32,18 +32,10 @@ body {
   color: #F55800;
 }
 
-.recent {
-  color: #091E42;
-}
-
-.horizontal-line {
+.recent-works {
   width: 100%;
 }
 
-.see-project {  
-  background-color: #F55800;
-}
-
-.see-project:hover {
-  background-color: #F55800;
+.recent {
+  color: #091E42;
 }

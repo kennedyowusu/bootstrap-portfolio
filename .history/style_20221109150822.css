@@ -39,11 +39,3 @@ body {
 .horizontal-line {
   width: 100%;
 }
-
-.see-project {  
-  background-color: #F55800;
-}
-
-.see-project:hover {
-  background-color: #F55800;
-}
