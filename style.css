@@ -47,3 +47,11 @@ body {
 .see-project:hover {
   background-color: #F55800;
 }
+
+.bg {
+  background-color: #F55800;
+}
+
+.height-card {
+  height: 86%;
+}
