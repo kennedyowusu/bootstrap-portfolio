@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-color {
+  background-color: #3E3C3C;
+}
+
+.space-1 {
+  height: 870px;
+  background-color: #1c1a19;
+  background-image: url(./images/hero-image.png);
+  background-repeat: no-repeat;
+  background-position-x: 109%;
+  background-position-y: center;
+}
+
+.size {
+  width: 20px;
+}
+
+.mt-n1 {
+  margin-top: 40%;
+}
+
+.color {
+  color: #F55800;
+}
+
+.recent {
+  color: #091E42;
+}
+
+.horizontal-line {
+  width: 100%;
+}
+
+.see-project {
+  background-color: #F55800;
+}
+
+.see-project:hover {
+   background-color: #F55800;
+}
